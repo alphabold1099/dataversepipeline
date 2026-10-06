@@ -1,0 +1,6 @@
+SolutionComponents:
+  Component:
+  - '@path': /entities/account
+  - '@path': /entities/account/formxml/main/b053a39a-041a-4356-acef-ddf00182762b
+  - '@path': /entities/account/ribbondiffs
+  - '@path': /publishers/Cr141cf

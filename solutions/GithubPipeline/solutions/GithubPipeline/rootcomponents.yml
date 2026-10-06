@@ -1,0 +1,5 @@
+RootComponents:
+  RootComponent:
+    '@type': 1
+    '@schemaName': account
+    '@behavior': 2
